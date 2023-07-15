@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(25, 24, 24);
+    color: white;
+}
+.img{
+    width: 600px;
+    
+    object-fit: cover;
+    border-radius: 20px;
+    /* object-fit: cover; */
+    
+    
+
+}
+.box{
+    width: 600px;
+    
+}
+.video{
+    border-radius: 20px;
+}
